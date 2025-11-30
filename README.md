@@ -56,9 +56,9 @@ pip install pandas numpy seaborn matplotlib statsmodels scikit-learn
 2. **Install dependencies** as listed above
 3. **Run the notebooks in sequence**:
    - Start with `EDA.ipynb` for data exploration
-   - Proceed to `severity_on_4.ipynb` for classification analysis
+   - Proceed to `severity_on_4.ipynb` for further key factors analysis
    - Continue with `LR.ipynb` for logistic regression modeling
-   - Finish with `stress_test.ipynb` for model validation
+   - Finish with `stress_test.ipynb` for stress tesing
 
 
 ## Usage
