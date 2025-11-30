@@ -1,4 +1,4 @@
-# Student Academic Performance Analysis Project
+# ASNA-Round 2 (Portfolio Analysis and Risk Segmentation part)
 
 ## Overview
 This project contains a comprehensive analysis of student academic performance data, exploring factors that influence student success and conducting predictive modeling. The analysis covers exploratory data analysis, logistic regression modeling, and stress testing of predictive models.
